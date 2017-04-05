@@ -83,7 +83,7 @@ class App extends Component {
             <h3>Line Series</h3>
             <LineChart />
           </section>
-            <section>
+          <section>
             <h3>Line Series With Styles</h3>
             <LineChartWithStyle />
           </section>
